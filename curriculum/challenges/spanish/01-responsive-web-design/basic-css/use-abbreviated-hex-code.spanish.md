@@ -46,16 +46,16 @@ tests:
 ```html
 <style>
   .red-text {
-    color: #000000;
+    color: #F00;
   }
   .fuchsia-text {
-    color: #000000;
+    color: #F0F;
   }
   .cyan-text {
-    color: #000000;
+    color: #0FF;
   }
   .green-text {
-    color: #000000;
+    color: #0F0;
   }
 </style>
 
